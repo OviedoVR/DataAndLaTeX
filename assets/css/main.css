@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #252122;
-		background-image: url("images/bg02.png");
+		background-image: url("images/background_pic.png");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
